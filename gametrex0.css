@@ -1,0 +1,137 @@
+#title {
+    font-family: 'Aboreto', cursive;
+    font-size: 30px;
+    margin-left: 80px;
+    margin-top: 100px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.material-symbols-outlined {
+    font-weight: bolder;
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+    border: none;
+    background-color: white;
+}
+
+.material-symbols-outlined:hover {
+    color: red;
+    cursor: pointer;
+    transition: color 0.5s;
+
+
+}
+
+#num1 {
+    background-color: black;
+    margin-top: 5px;
+    padding-top: 120px;
+    padding-left: 80px;
+    font-size: 100px;
+    height: 700px;
+    color: aliceblue;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Teko', sans-serif;
+    background-image: url(/e25e61038bfd4cef150c6cec7f50d643-700.jpg);
+
+}
+
+#Search {
+    background-color: black;
+    color: aliceblue;
+    border: 1px solid gray;
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+    margin-right: 0px;
+    text-indent: 10px;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Silkscreen', cursive;
+}
+
+#find {
+    margin: 0px;
+    background-color: #E23D28;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Teko', sans-serif;
+
+}
+
+#find:hover {
+    margin: 0px;
+    background-color: #960018;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Teko', sans-serif;
+    cursor: pointer;
+
+}
+
+.images {
+    width: 246px;
+    height: 152px;
+    margin-bottom: 20px;
+    transition-duration: 0.5s;
+    border-radius: 5px;
+}
+
+#fc6 {
+    width: 538px;
+    height: 293.1px;
+    margin: 0px 20px;
+    transition-duration: 0.5s;
+    border-radius: 5px;
+
+}
+
+table {
+    padding: 20px 100px;
+
+}
+
+.images:hover {
+    width: 270px;
+    height: 180px;
+    cursor: pointer;
+    box-shadow: 4px 4px 4px gray;
+}
+
+#fc6:hover {
+    width: 570px;
+    height: 330px;
+    cursor: pointer;
+    box-shadow: 4px 4px 4px gray;
+}
+
+.images2 {
+    width: 339px;
+    height: 227px;
+    margin: 5px;
+    transition-duration: 0.35s;
+    border-radius: 5px;
+
+}
+
+.images2:hover {
+    width: 360px;
+    height: 260px;
+    box-shadow: 4px 4px 4px gray;
+
+}
+
+header {
+    padding: 10px;
+}
+
+main {
+    background-color: #ffe4b5;
+}
