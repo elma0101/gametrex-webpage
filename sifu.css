@@ -1,0 +1,164 @@
+#title {
+    font-family: 'Aboreto', cursive;
+    font-size: 30px;
+    margin-left: 80px;
+    margin-top: 100px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.material-symbols-outlined {
+    font-weight: bolder;
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+    border: none;
+}
+
+.material-symbols-outlined:hover {
+    color: red;
+    cursor: pointer;
+    transition: color 0.5s;
+
+
+}
+
+header {
+    padding: 10px;
+
+}
+
+main {
+    background-color: #ffe4b5;
+
+
+}
+
+#game {
+    font-family: 'Aboreto', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Teko', sans-serif;
+    font-size: 45px;
+    text-indent: 50px;
+    padding-top: 20px;
+    margin-top: 5px;
+}
+
+.image {
+    width: 690px;
+    height: 455px;
+    margin-left: 50px;
+    margin-right: 10px;
+    float: left;
+}
+
+#download {
+    background-color: #E23D28;
+    border: 1px solid rgb(155, 152, 152);
+    border-radius: 3px;
+    padding: 20px;
+    color: blanchedalmond;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+    transition-duration: 0.35s;
+
+
+}
+
+#download:hover {
+    background-color: #960018;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 20px;
+    padding: 20px;
+
+    color: blanchedalmond;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+    box-shadow: 0px 2px 5px 1px gray;
+    cursor: pointer;
+
+
+}
+
+#but1 {
+    background-color: #f5f5dc;
+    width: 186px;
+    height: 268px;
+    margin: 5px;
+    padding: 60px;
+    float: left;
+    box-shadow: 0px 2px 5px 1px gray;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Teko', sans-serif;
+    font-size: 17px;
+
+}
+
+#but2 {
+    background-color: #f5f5dc;
+    float: right;
+    width: 343px;
+    height: 560px;
+    margin-right: 100px;
+    padding: 30px;
+    padding-top: 6px;
+    box-shadow: 0px 2px 5px 1px gray;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Teko', sans-serif;
+    font-size: 19px;
+
+}
+
+#but3 {
+    background-color: #f5f5dc;
+    float: left;
+    width: 500px;
+    height: 280px;
+    margin-left: 50px;
+    margin-right: 10px;
+    padding: 30px;
+    padding-top: 6px;
+    margin-top: 5px;
+    box-shadow: 0px 2px 5px 1px gray;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Teko', sans-serif;
+    font-size: 22px;
+
+}
+
+#but4 {
+    background-color: #ffe4b5;
+    width: 1247px;
+    height: 650px;
+    padding-top: 11px;
+}
+
+.images {
+    width: 128px;
+    height: 83px;
+    margin: 4px;
+
+
+}
+
+table {
+    margin: 45px;
+    padding-top: 15px;
+}
